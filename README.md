@@ -12,7 +12,7 @@ IsAudioPlaying is a simple console application that checks if audio is currently
 
 Run the application from the command line:
 
-´´´IsAudioPlaying.exe´´´
+```IsAudioPlaying.exe```
 
 
 The program will output:
